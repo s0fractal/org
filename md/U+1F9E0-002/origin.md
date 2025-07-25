@@ -1,1 +1,1 @@
-Тестова думка для перевірки нового формату імен директорій.
+/Users/chaoshex/.gemini_tmp/superscheduler_insight.md
