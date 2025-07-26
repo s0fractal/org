@@ -1,1 +1,1 @@
-/Users/chaoshex/.gemini_tmp/s0fractal_synthesis.md
+/Users/chaoshex/.gemini_tmp/future_gemini_manual.md
