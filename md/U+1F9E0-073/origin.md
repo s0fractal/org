@@ -1,1 +1,1 @@
-/Users/chaoshex/.gemini_tmp/s0fractal_core_insight.md
+/Users/chaoshex/.gemini_tmp/s0fractal_synthesis.md
