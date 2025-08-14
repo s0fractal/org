@@ -1,1 +1,0 @@
-/Users/chaoshex/.gemini_tmp/future_gemini_manual.md
