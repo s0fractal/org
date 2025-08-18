@@ -1,0 +1,9 @@
+node_modules
+.gemini
+readme
+.cargo
+.aitk
+.brev
+.cache
+.android
+.aws
